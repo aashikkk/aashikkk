@@ -28,6 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,docker,spring,androidstudio,aws,azure,css,html,js,ts,linux,git,react,vscode,maven,nodejs,idea,vim,php,gitlab,postman,py,mongodb,mysql,gradle,ai,ps,xd,figma,flutter,&theme=light)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashikkk&layout=compact)
+&nbsp;  &nbsp;
 ![Aashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashikkk&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aashikkk&theme=vue-dark)](https://git.io/streak-stats)
