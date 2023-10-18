@@ -3,14 +3,20 @@
 <h1 align="center"> Hi there 👋, I'm Aashik Shihaab </h1>
 <h3 align="center"> A passionate Fullstack Developer </h2>
 
+<img src="https://github.com/aashikkk/aashikkk/assets/82132513/961e1395-70ed-463d-b1d1-fbb5952fd2c1" alt="Image Description" align="right" width="300" height="250">
+
 * 🌱 I’m currently learning React and Polishing up my Java skills
-* 🤔 I’m looking for a Software Engineering Internship and continue my career there            
-* 💬 Ask me about Java, Docker and React JS 
+  
+* 🤔 I’m looking for a Software Engineering Internship and continue my career there
+          
+* 💬 Ask me about Java, Docker and React JS
+  
 * 📫 How to reach me: sihaabama@gmail.com
+  
 * ⚡ Manchester United Fan 👹
 
+<br/>
 
-![Image](https://drive.google.com/file/d/1foYm2x1pfud1lUN8nZAsxX8-AcJkKVT7/view?usp=share_link)
 **Connect with me:** 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/aashik-shihaab/)
