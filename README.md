@@ -9,9 +9,15 @@
 * 📫 How to reach me: sihaabama@gmail.com
 * ⚡ Manchester United Fan 👹
 
-Connect with me:
-<a href="https://www.linkedin.com/in/aashik-shihaab/"> <br> [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)</a> 
+**Connect with me:** 
 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/aashik-shihaab/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)]([https://skillicons.dev](https://twitter.com/AashikSihaab))
+[![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)]([https://skillicons.dev](https://stackoverflow.com/users/20332294/aashik-sihaab))
+
+**Languages and Tools** <br/>
+
+[![My Skills](https://skillicons.dev/icons?i=java,docker,spring,androidstudio,aws,azure,css,html,js,ts,linux,git,react,vscode,maven,nodejs,idea,vim,php,gitlab,postman,py,mongodb,mysql,gradle,ai,ps,xd,figma,flutter,&theme=light)](https://skillicons.dev)
 
 
 
