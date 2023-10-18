@@ -19,8 +19,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,docker,spring,androidstudio,aws,azure,css,html,js,ts,linux,git,react,vscode,maven,nodejs,idea,vim,php,gitlab,postman,py,mongodb,mysql,gradle,ai,ps,xd,figma,flutter,&theme=light)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashikkk&layout=compact)
+![Aashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashikkk&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aashikkk&theme=vue-dark)](https://git.io/streak-stats)
 
 
+
+
+![](https://komarev.com/ghpvc/?username=aashikkk&style=plastic)
 <!--
 **aashikkk/aashikkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
