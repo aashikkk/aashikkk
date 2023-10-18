@@ -9,7 +9,7 @@
   
 * 🤔 I’m looking for a Software Engineering Internship and continue my career there
           
-* 💬 Ask me about Java, Docker and React JS
+* 💬 Ask me about <b>Java, Docker and React JS <b/>
   
 * 📫 How to reach me: sihaabama@gmail.com
   
