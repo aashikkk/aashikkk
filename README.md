@@ -20,8 +20,8 @@
 **Connect with me:** 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/aashik-shihaab/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)]([https://skillicons.dev](https://twitter.com/AashikSihaab))
-[![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)]([https://skillicons.dev](https://stackoverflow.com/users/20332294/aashik-sihaab))
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/AashikSihaab)
+[![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/20332294/aashik-sihaab)
 
 **Languages and Tools** <br/>
 
