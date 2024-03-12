@@ -5,11 +5,11 @@
 
 <img src="https://github.com/aashikkk/aashikkk/assets/82132513/961e1395-70ed-463d-b1d1-fbb5952fd2c1" alt="Image Description" align="right" width="300" height="250">
 
-* 🌱 I’m currently learning React and Polishing up my Java skills
+* 🌱 I’m currently enhancing HTML, CSS, JS,Node, Express,React,Java skills
   
-* 🤔 I’m looking for a Software Engineering Internship and continue my career there
+* 🤔 I’m looking for a Software Engineer (or Associate) role and continue my career there
           
-* 💬 Ask me about <b> Java, Docker and React JS  </b> and willing to learn other technologies as well
+* 💬 Ask me about <b> HTML, CSS, JS, Java, Docker and React JS  </b> and willing to learn other technologies as well
   
 * 📫 How to reach me: sihaabama@gmail.com
   
