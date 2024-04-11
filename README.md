@@ -9,9 +9,9 @@
   
 * 🤔 I’m looking for a Software Engineer (or Associate) role and continue my career there
           
-* 💬 Ask me about <b> HTML, CSS, JS, Java, Docker and React JS  </b> and willing to learn other technologies as well
+* 💬 Ask me about <b> HTML, CSS, JS, Node, Express, React JS, Java and Docker  </b> and willing to learn other technologies as well
   
-* 📫 How to reach me: sihaabama@gmail.com
+* 📫 How to reach me: sihaabama@gmail.com | https://t.me/aashikkkk
   
 * ⚡ Manchester United Fan 👹
 
