@@ -5,11 +5,11 @@
 
 <img src="https://github.com/aashikkk/aashikkk/assets/82132513/961e1395-70ed-463d-b1d1-fbb5952fd2c1" alt="Image Description" align="right" width="300" height="250">
 
-* 🌱 I’m currently doing my final year project and that is Career Guidence Portal using React, Node, MySQL and Tailwind CSS
+* 🌱 I’m currently enhancing my knowledge in JavaScript, Java, Node, and React
   
 * 🤔 I’m looking for a Software Engineer (or Associate) role and continue my career there
           
-* 💬 Ask me about <b> HTML, CSS, JS, Node, Express, React JS, Java and Docker  </b> and willing to learn other technologies as well
+* 💬 Ask me about <b> HTML, CSS, JS, Node, React JS, and Java  </b> and willing to learn other technologies as well
   
 * 📫 How to reach me: sihaabama@gmail.com | https://t.me/aashikkkk
   
